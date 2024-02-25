@@ -28,4 +28,4 @@ http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it
 This presents OEX package [CubeAuditing](https://openexchange.intersystems.com/package/MDX-Query-Auditing-Samples) using the actual IPM module    
-All user documentation is found there in the [original repo](https://github.com/sduncan01/CubeAuditing/blob/master/docs/README.md)  
+All user documentation is found there in the [Article on DC](https://community.intersystems.com/post/monitoring-bi-cube-usage-and-cleaning-unused-cubes)  
