@@ -10,7 +10,7 @@
     zpm "install vscode-per-namespace-settings"
     // load some demo data 
     zpm "install samples-bi"
+    zpm "install CubeAuditing"
 
-    zpm "load /home/irisowner/dev/ -v":1:1
     halt
 
